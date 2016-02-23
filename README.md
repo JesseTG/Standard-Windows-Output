@@ -1,2 +1,2 @@
-# Standard-Windows-Logger
-Support for std::cout, std::cin, and std::endl when building Win32 applications in Visual Studio
+# Standard-Windows-Output
+Support for std::cout, std::clog, and std::cerr when building Win32 applications in Visual Studio
